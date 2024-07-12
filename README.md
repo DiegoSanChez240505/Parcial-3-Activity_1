@@ -16,4 +16,4 @@ Cuatrimestre 3
 
 Grupo 3D
 
-Primer Parcial
+Tercer Parcial
